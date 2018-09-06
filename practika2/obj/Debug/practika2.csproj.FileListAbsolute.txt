@@ -5,3 +5,10 @@ C:\Users\nikit\source\repos\practika2\practika2\obj\Debug\practika2.csprojAssemb
 C:\Users\nikit\source\repos\practika2\practika2\obj\Debug\practika2.csproj.CoreCompileInputs.cache
 C:\Users\nikit\source\repos\practika2\practika2\obj\Debug\practika2.exe
 C:\Users\nikit\source\repos\practika2\practika2\obj\Debug\practika2.pdb
+C:\Users\Giro\source\repos\ModulMatrix\practika2\bin\Debug\practika2.exe.config
+C:\Users\Giro\source\repos\ModulMatrix\practika2\bin\Debug\practika2.exe
+C:\Users\Giro\source\repos\ModulMatrix\practika2\bin\Debug\practika2.pdb
+C:\Users\Giro\source\repos\ModulMatrix\practika2\obj\Debug\practika2.csprojAssemblyReference.cache
+C:\Users\Giro\source\repos\ModulMatrix\practika2\obj\Debug\practika2.csproj.CoreCompileInputs.cache
+C:\Users\Giro\source\repos\ModulMatrix\practika2\obj\Debug\practika2.exe
+C:\Users\Giro\source\repos\ModulMatrix\practika2\obj\Debug\practika2.pdb
